@@ -1,0 +1,16 @@
+Project: Random Password Generator
+
+Description:
+  Developed a Python script that generates secure random passwords based on user-defined length and complexity requirements.
+
+Key Features:
+  Utilizes the random and string modules to create a diverse character set.
+  Allows users to specify the desired password length.
+  Generates passwords containing uppercase letters, lowercase letters, digits, and special characters.
+  Ensures randomness and uniqueness for each generated password.
+
+Skills Demonstrated:
+  Python programming
+  Algorithm design
+  User input handling
+  String manipulation
